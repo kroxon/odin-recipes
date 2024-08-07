@@ -1,0 +1,43 @@
+.title, .subtitle {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(219, 51, 0);
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.subtitle {
+    color: darkgoldenrod;
+    
+}
+
+.title .list {
+    font-size: 24px;
+    color: orange;
+    margin-left: 8px;
+}
+
+#center {
+    text-align: center;
+}
+
+.title #center {
+    background-color: lightgoldenrodyellow;
+}
+
+.pic {
+    width: 500px;
+    height: auto;
+}
+
+.list {
+    background-color: rgb(248, 248, 248);
+    width: fit-content;
+    padding-left: 24px;
+    margin-left: 32px;
+}
+
+.element {
+    color: rgb(128, 72, 72);
+    font-size: 20px;
+    font-weight: 500;
+}
